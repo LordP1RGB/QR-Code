@@ -39,6 +39,8 @@ Whilst obviously this isn't the best recreation of the design shown in the previ
 
 Styled Components was an API recommended by FrontEndMentor for this project that I could potentially use in the future to further better the accuracy of this project, but also my general CSS design skills in the future.
 
+I might potentially revisit this website or challenge again in the near future after learning more about different frameworks in JavaScript (e.g. React.js) as a way to show an improvement in skill (but thats if I decide to do so who knows)
+
 ## Author
 
 - Frontend Mentor Profile - [@LordP1RGB](https://www.frontendmentor.io/profile/LordP1RGB)
