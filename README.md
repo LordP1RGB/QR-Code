@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/basic-qr-code-website-kK9Avy5lm-
 - Live Site URL: https://lordp1rgb.github.io/QR-Code/
 
 ## My process
